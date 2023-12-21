@@ -33,14 +33,16 @@ This is a basic implementation of the classic Space Invader game using Pygame. T
 
 
 
-  #Install the required dependencies. Make sure you have Python and Pygame installed:
-  pip install pygame
+  ##Install the required dependencies. Make sure you have Python and Pygame installed:
+   >>> pip install pygame 
 
 
-## Usage
+##Usage
 Run the game by executing the following command:
-
-```bash
-   python space_invader.py
+   >>> python space_invader.py
 
 
+##Controls
+Move left: Left Arrow
+Move right: Right Arrow
+Shoot: Spacebar
