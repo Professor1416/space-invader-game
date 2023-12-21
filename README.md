@@ -39,7 +39,8 @@ This is a basic implementation of the classic Space Invader game using Pygame. T
 
 ## Usage
  Run the game by executing the following command:
-   python space_invader.py
+ ```bash
+ python space_invader.py
 
 
 ## Controls:
