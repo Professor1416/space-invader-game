@@ -30,3 +30,17 @@ This is a basic implementation of the classic Space Invader game using Pygame. T
 
    ```bash
    git clone https://github.com/Professor1416/space-invader-game.git
+
+
+
+  #Install the required dependencies. Make sure you have Python and Pygame installed:
+  pip install pygame
+
+
+## Usage
+Run the game by executing the following command:
+
+```bash
+   python space_invader.py
+
+
