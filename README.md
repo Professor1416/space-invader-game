@@ -44,4 +44,5 @@ This is a basic implementation of the classic Space Invader game using Pygame. T
 ## Controls:
 -Move left: Left Arrow
 -Move right: Right Arrow
+-Move up: Up Arrow
 -Shoot: Spacebar
